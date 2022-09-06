@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "nombre": "Coca Cola",
+      "precio": 2000,
+      "id": 1
+    },
+    {
+      "nombre": "Coca Cola Zero",
+      "precio": 4700,
+      "id": 2
+    }
+  ]
+}
